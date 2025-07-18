@@ -83,3 +83,5 @@ export const Testimonials = () => {
     </section>
   );
 };
+
+// Atualizado

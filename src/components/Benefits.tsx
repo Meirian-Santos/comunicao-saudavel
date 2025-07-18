@@ -81,3 +81,5 @@ export const Benefits = () => {
     </section>
   );
 };
+
+// Atualizado

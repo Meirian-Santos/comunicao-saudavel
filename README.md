@@ -3,7 +3,14 @@
 Landing page desenvolvida com propósito de divulgar serviços e ideias focadas em **comunicação empática, acessível e transformadora**.
 
 > 🌿 Este projeto combina estética, clareza e impacto emocional, traduzindo valores humanos em uma experiência web moderna e fluida.
+>
+> ## 🌐 Site publicado
 
+👉 [Acesse a landing page Comunicação Saudável](https://comunicaosaudavel.netlify.app/)
+
+![Preview do site Comunicação Saudável](./public/comunicacao1.jpg)
+![Preview do site Comunicação Saudável](./public/comunicacao2.jpg)
+![Preview do site Comunicação Saudável](./public/comunicacao3.jpg)
 ---
 
 ## ✍️ Autoria e Curadoria
